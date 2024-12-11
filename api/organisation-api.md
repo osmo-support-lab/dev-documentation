@@ -20,6 +20,6 @@ Contains all the endpoints needed for agents to respond to tickets
 
 #### Admin API
 
-Prefixed with `agent/`
+Prefixed with `admin/`
 
 Contains all the endpoints needed for organisation admins to make changes to the organisation
