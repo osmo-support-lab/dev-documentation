@@ -2,10 +2,6 @@
 
 * [ISG Backend Documentation](README.md)
 
-## Workflows
-
-* [Message/Chat Status](workflows/message-chat-status.md)
-
 ## Database Models
 
 * [User](database-models/user.md)
@@ -14,3 +10,12 @@
 * [Chat](database-models/chat.md)
 * [Message](database-models/message.md)
 * [Relations](database-models/relations.md)
+
+## Workflows
+
+* [Message/Chat Status](workflows/message-chat-status.md)
+
+## API
+
+* [General API](api/general-api.md)
+* [Organisation API](api/organisation-api.md)
