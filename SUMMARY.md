@@ -5,6 +5,7 @@
 ## Database Models
 
 * [User](database-models/user.md)
+* [Anonymous User](database-models/anonymous-user.md)
 * [Organisation](database-models/organisation.md)
 * [Department](database-models/department.md)
 * [Chat](database-models/chat.md)
@@ -14,6 +15,10 @@
 ## Workflows
 
 * [Message/Chat Status](workflows/message-chat-status.md)
+
+## Event Handler
+
+* [Overview](event-handler/overview.md)
 
 ## API
 

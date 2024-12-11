@@ -1,14 +1,17 @@
 # User
 
+### Description
+
+The user represents organisation admins and agents. A user is global and can belong to multiple organisations. In the first version a User will not be able to create tickets and request support. This functionality shall be implemented at a later stage.
+
 ### Attributes
 
-| Attribute      | Type   | Description                                                                                |
-| -------------- | ------ | ------------------------------------------------------------------------------------------ |
-| uuid           | uuid4  | User id identifying the user. For temp\_users this will also be their authentication token |
-| is\_temp\_user | bool   | Whether a user registered or has been added anonymously                                    |
-| username       | string |                                                                                            |
-| email          | string |                                                                                            |
-| password       | string | argon2 hashed password                                                                     |
-| avatar         | string | avatar url on our CDN                                                                      |
+| Attribute | Type   | Description                   |
+| --------- | ------ | ----------------------------- |
+| user\_id  | int    | User id identifying the user. |
+| username  | string |                               |
+| email     | string |                               |
+| password  | string | argon2 hashed password        |
+| avatar    | string | avatar url on our CDN         |
 
 ### Relations
