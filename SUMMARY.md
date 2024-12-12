@@ -24,3 +24,7 @@
 
 * [General API](api/general-api.md)
 * [Organisation API](api/organisation-api.md)
+
+## Modules
+
+* [User](modules/user.md)
