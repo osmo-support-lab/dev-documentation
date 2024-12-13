@@ -15,3 +15,5 @@ The user represents organisation admins and agents. A user is global and can bel
 | avatar    | string | avatar url on our CDN         |
 
 ### Relations
+
+* ManyToMany: User - Organisation ⇒ Save user (admin, agent, superadmin, supervisor, owner)

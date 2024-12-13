@@ -10,3 +10,5 @@
 | description | string |                                                        |
 
 ### Relations
+
+* ManyToMany: User - Organisation ⇒ Save their role (admin, agent, superadmin, supervisor, owner)
