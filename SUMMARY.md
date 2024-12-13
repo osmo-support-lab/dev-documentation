@@ -14,6 +14,7 @@
 
 ## Workflows
 
+* [Authentication](workflows/authentication.md)
 * [Message/Chat Status](workflows/message-chat-status.md)
 
 ## Event Handler
